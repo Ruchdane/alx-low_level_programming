@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_square- Main function
+ * print_triangle- Main function
  * @n: value
  *
  * Return: 0
  */
-void print_square(int n)
+void print_triangle(int n)
 {
 	int i, j;
 
